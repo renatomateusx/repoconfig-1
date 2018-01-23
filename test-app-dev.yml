@@ -1,5 +1,5 @@
 test:
   url:
-    http://remoteconfig-dev-profile:8080
+    http://remoteconfig-dev-profile-refresh-online:8080
 server:
   port: 8083
