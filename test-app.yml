@@ -1,3 +1,3 @@
 test:
   url:
-    http://standard-remote-value:8080
+    http://propagate-remote-value:8080
