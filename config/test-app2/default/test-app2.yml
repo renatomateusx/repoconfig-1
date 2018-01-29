@@ -1,3 +1,5 @@
 test:
   url:
     http://app2-remote-in-branch-and-folder:8080
+  other-string:
+    Pegou do default
