@@ -1,0 +1,3 @@
+test:
+  url:
+    http://app2-remote-in-branch-and-folder-profile-dev:8080
