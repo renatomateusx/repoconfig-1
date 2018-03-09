@@ -1,5 +1,5 @@
 test:
   url:
-    http://remoteconfig-dev-profile-refreshing:8080
+    http://Alterando-dev:8080
 server:
   port: 8083
