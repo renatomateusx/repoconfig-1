@@ -1,0 +1,5 @@
+test:
+  url:
+    http://pastapropertiesdev:8080
+server:
+  port: 8083
